@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">Habilidades:</h4>
+<h3 align="left">Habilidades:</h3>
 
 ###
 
