@@ -23,7 +23,9 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heidisql/heidisql-original.svg" height="40" alt="heidisql logo" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/32/HeidiSQL_logo_image.png" height="40" alt="heidisql logo" />
+<img width="12" />
+
 <img width="12" />
 
 
