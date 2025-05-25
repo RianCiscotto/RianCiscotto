@@ -25,8 +25,10 @@
 <img width="12" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/HeidiSQL_logo_image.png" height="40" alt="heidisql logo" />
 <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="40" alt="mariadb logo" />
 
 <img width="12" />
+
 
 
 </div>
