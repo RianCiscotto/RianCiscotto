@@ -9,9 +9,7 @@
 🚀 Aberto a novas oportunidades e desafios para expandir meus conhecimentos em programação
 </p>
 
----
-
-### 🧠 Habilidades:
+### Habilidades:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
@@ -24,13 +22,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="40" alt="MariaDB" />
 </div>
 
----
-
-### 📊 Status:
+###
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=RianCiscotto&show_icons=true&theme=codeSTACKr" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RianCiscotto&layout=compact&theme=codeSTACKr" height="150" />
 </div>
 
+---
 
+### 
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif">
+</p>
