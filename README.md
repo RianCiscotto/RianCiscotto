@@ -38,9 +38,12 @@
 ---
 
 
-<p align="center">
-  <img src="https://github.com/RianCiscotto/RianCiscotto/blob/main/zx1g0310iigd1.gif" width="150" alt="Shoveling Penguin" />
-  <img src="https://github.com/RianCiscotto/RianCiscotto/blob/main/zivj0410iigd1.gif" width="150" alt="Minecart Penguin" />
-  <img src="https://github.com/RianCiscotto/RianCiscotto/blob/main/ivcx6810iigd1.gif" width="150" alt="Pizza Penguin" />
+---
+
+<p align="left">
+  <img src="https://github.com/RianCiscotto/RianCiscotto/blob/main/zx1g0310iigd1.gif" width="100" alt="Penguin" />
+  <img src="https://github.com/RianCiscotto/RianCiscotto/blob/main/zivj0410iigd1.gif" width="100" alt="Penguin" />
+  <img src="https://github.com/RianCiscotto/RianCiscotto/blob/main/ivcx6810iigd1.gif" width="100" alt="Penguin" />
 </p>
+
 
