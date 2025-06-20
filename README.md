@@ -29,10 +29,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RianCiscotto&layout=compact&theme=codeSTACKr" height="150" />
 </div>
 
----
-
-### 
+###
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif">
+  <img src="https://github.com/user-attachments/assets/055cad38-7d49-49f7-a761-2f7685368e3d/90m4ik" width="400" alt="Coding gif">
 </p>
