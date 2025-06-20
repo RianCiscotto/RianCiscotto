@@ -31,19 +31,12 @@
 
 ###
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/055cad38-7d49-49f7-a761-2f7685368e3d/90m4ik" width="400" alt="Coding gif">
-</p>
 
----
+<p align="left"">
 
-
----
-
-<p align="left">
-  <img src="https://github.com/RianCiscotto/RianCiscotto/blob/main/zx1g0310iigd1.gif" width="100" alt="Penguin" />
-  <img src="https://github.com/RianCiscotto/RianCiscotto/blob/main/zivj0410iigd1.gif" width="100" alt="Penguin" />
   <img src="https://github.com/RianCiscotto/RianCiscotto/blob/main/ivcx6810iigd1.gif" width="100" alt="Penguin" />
 </p>
+
+
 
 
