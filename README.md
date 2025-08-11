@@ -5,7 +5,6 @@
 🎮 Formado em Design de Jogos<br>
 🛠️ Cursando Engenharia de Software<br>
 🔍 Cursando Análise e Desenvolvimento de Sistemas<br>
-🎬 Editor de vídeo nas horas vagas<br>
 🚀 Aberto a novas oportunidades e desafios para expandir meus conhecimentos em programação
 </p>
 
