@@ -2,7 +2,7 @@
 
 <p align="left">
 💻 Técnico de Informática<br>
-🎮 Formado em Design de Jogos<br>
+🎮 Técnico em Design de Jogos<br>
 🛠️ Cursando Engenharia de Software<br>
 🔍 Cursando Análise e Desenvolvimento de Sistemas<br>
 🚀 Aberto a novas oportunidades e desafios para expandir meus conhecimentos em programação
